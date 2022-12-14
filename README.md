@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Mateus Soares</h1>
 <h3 align="center">Desenvolvedor front-end localizado em São Paulo.</h3>
-</br>
 
 - 🌱 Atualmente, estou aprendendo **JavaScript e ReactJS**
 
