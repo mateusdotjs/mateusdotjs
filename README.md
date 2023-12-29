@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Mateus Soares</h1>
 <h3 align="center">Desenvolvedor front-end localizado em São Paulo.</h3>
 
-- 🌱 Atualmente, estou aprendendo **JavaScript e ReactJS**
+- 🌱 Atualmente, estou focando em **React e Typescript**
 
 - 👨‍💻 Meu portfolio está disponível em [https://mateusdotjs.github.io/portfolio-pessoal/](https://mateusdotjs.github.io/portfolio-pessoal/)
 
