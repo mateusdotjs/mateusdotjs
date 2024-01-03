@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Mateus Soares</h1>
-<h3 align="center">Desenvolvedor front-end localizado em São Paulo.</h3>
+<h3 align="center">Desenvolvedor localizado em São Paulo.</h3>
 
 - 🌱 Atualmente, estou focando em **React e Typescript**
 
@@ -17,12 +17,12 @@
   <a href="https://beta.reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
   </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
