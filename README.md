@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou focando em **React e Typescript**
 
-- 👨‍💻 Meu portfolio está disponível em [[https://mateusdotjs.github.io/portfolio-pessoal/](https://mateusdotjs.github.io/portfolio-pessoal/)](https://mateussoaresdev.netlify.app/)
+- 👨‍💻 Meu portfolio está disponível em [https://mateusdotjs.github.io/portfolio-pessoal/](https://mateussoaresdev.netlify.app/)
 
 - 📫 Me contate em **mateus.silvainfo@gmail.com**
 
