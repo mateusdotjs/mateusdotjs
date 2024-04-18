@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou focando em **React, Typescript e Node**
 
-- 👨‍💻 Meu portfolio está disponível em [https://mateussoaresdev.netlify.app/](https://mateussoaresdev.netlify.app/)
+- 👨‍💻 Meu portfolio está disponível em [https://mateussoaresdev.vercel.app/](https://mateussoaresdev.vercel.app/)
 
 - 📫 Me contate em **mateus.silvainfo@gmail.com**
 
