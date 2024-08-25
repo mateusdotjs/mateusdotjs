@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Mateus Soares</h1>
 <h3 align="center">Desenvolvedor localizado em São Paulo.</h3>
 
-- 🌱 Atualmente, estou focando em **React, Typescript e Node**
+- 🌱 Atualmente, estou focando em **Next.js, NestJS e Docker**
 
 - 👨‍💻 Meu portfolio está disponível em [https://mateussoaresdev.vercel.app/](https://mateussoaresdev.vercel.app/)
 
