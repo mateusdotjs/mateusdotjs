@@ -1,1 +1,1 @@
-Full Stack Developer focused on backend engineering with Node.js (NestJS). Experienced in building and maintaining REST APIs, microservices, and production systems. Strong background in debugging, legacy code analysis, and delivering stable, scalable solutions.
+Full Stack Developer focused on backend engineering with Node.js. Experienced in building and maintaining REST APIs, microservices, and production systems. Strong background in debugging, legacy code analysis, and delivering stable, scalable solutions.
